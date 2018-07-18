@@ -34,12 +34,19 @@ function dec(n) {
 //good above
 
 function makeInt(n) {
+<<<<<<< HEAD
   return parseInt(n, 10)
 }
 //good above
 
 function preserveDecimal(n) {
   return parseFloat(n)
+=======
+  return n
+  parseInt('0*2328', 10)
+
+  
+>>>>>>> 37443ebe6a14965c67df6c68b9f57674baac1932
 }
 
 
@@ -51,3 +58,7 @@ function preserveDecimal(n) {
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 37443ebe6a14965c67df6c68b9f57674baac1932
